@@ -16,6 +16,7 @@ class APILoginController extends Controller
     use SendsPasswordResetEmails;
     use ResetsPasswords;
     public function login() {
+        return 123;
         // get email and password from request
         $credentials = request(['email', 'password']);
 
