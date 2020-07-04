@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="da36a9fc-9192-4e4f-b9d8-3512ae9aa799" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/APILoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/APILoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/cors.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +135,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oddbrother" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
@@ -171,7 +173,10 @@
       <workItem from="1592758822461" duration="671000" />
       <workItem from="1593239883432" duration="288000" />
       <workItem from="1593245252917" duration="600000" />
-      <workItem from="1593247724164" duration="6768000" />
+      <workItem from="1593247724164" duration="7853000" />
+      <workItem from="1593710656368" duration="762000" />
+      <workItem from="1593840984409" duration="1933000" />
+      <workItem from="1593849833215" duration="2966000" />
     </task>
     <servers />
   </component>
